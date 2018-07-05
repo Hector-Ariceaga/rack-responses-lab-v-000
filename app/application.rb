@@ -1,6 +1,6 @@
 create Application
 
   def call(env)
-    resp = rack::
+    resp = Rack::Response.new
   end 
 end
