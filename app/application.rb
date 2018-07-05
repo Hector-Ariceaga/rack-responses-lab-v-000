@@ -1,4 +1,6 @@
 create Application
 
-  def call
+  def call(env)
+    resp = rack::
+  end 
 end
